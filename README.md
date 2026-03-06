@@ -222,6 +222,10 @@ Genera una excusa usando la API de OpenAI.
 **José** — Desarrollador en formación
 
 Hola, soy José. Estoy dando mis primeros pasos en el mundo del desarrollo web y este proyecto es parte de mi proceso de aprendizaje. Lo construí para practicar Next.js, TypeScript y la integración con APIs externas de manera real y divertida.
+
+-
+-
+
 ---
 
 <p align="center">
